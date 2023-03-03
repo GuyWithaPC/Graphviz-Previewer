@@ -18,6 +18,7 @@
 *.zip
 *.tar.gz
 *.rar
+META-INF
 
 # intelliJ stuff
 .idea
